@@ -1,0 +1,18 @@
+{
+    "servers": [
+        {
+            "server_id": "NavCogAr",
+            "available": true,
+            "name": {
+                "en": "King Saud University",
+                "ar": "جامعة الملك سعود"
+            },
+            "description": {
+                "en": "",
+                "ja": ""
+            },
+            "hostname": "ec2-3-91-80-57.compute-1.amazonaws.com:8080/MapService",
+            "config_file_name": "server_config.json"
+        },
+        ]
+}
