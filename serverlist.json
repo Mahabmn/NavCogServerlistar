@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "server_id": "server4",
+            "server_id": "ec2-3-90-61-16",
             "available": true,
             "name": {
                 "en": "King Saud University",
