@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "server_id": "ec2-3-90-61-16",
+            "server_id": "navcogar",
             "available": true,
             "name": {
                 "en": "King Saud University",
