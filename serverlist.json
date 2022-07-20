@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "server_id": "EC2AMAZ-324FSMH",
+            "server_id": "server5",
             "available": true,
             "name": {
                 "en": "King Saud University",
