@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "server_id": "navcogar",
+            "server_id": "tomcat",
             "available": true,
             "name": {
                 "en": "King Saud University",
