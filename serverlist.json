@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "server_id": "tomcat",
+            "server_id": "Apache Tomcat/8.5.81",
             "available": true,
             "name": {
                 "en": "King Saud University",
